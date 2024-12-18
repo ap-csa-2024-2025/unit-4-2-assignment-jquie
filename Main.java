@@ -18,6 +18,7 @@ public class Main
       a++;
     }
   
+  // Problem 2
    System.out.println("Enter a positive number");
    int num = sc.nextInt();
    int degree = 0;
