@@ -6,7 +6,6 @@ public class Main
   {
     Scanner sc = new Scanner(System.in);
     // Problem 1
-    /*
     System.out.println("Enter two numbers");
     int a = sc.nextInt();
     int b = sc.nextInt();
@@ -18,7 +17,7 @@ public class Main
       }
       a++;
     }
-    */
+  
    System.out.println("Enter a positive number");
    int num = sc.nextInt();
    int degree = 0;
